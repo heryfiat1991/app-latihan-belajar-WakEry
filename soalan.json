@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "jenis": "pilihan_ganda",
+    "soalan": "Apakah ibu negara bagi Malaysia?",
+    "pilihan": ["Johor Bahru", "Kuala Lumpur", "Pulau Pinang", "Kuching"],
+    "jawapan": "Kuala Lumpur",
+    "penjelasan": "Kuala Lumpur telah dijadikan ibu negara Malaysia sejak kemerdekaan."
+  },
+  {
+    "id": 2,
+    "jenis": "betul_salah",
+    "soalan": "Matahari terbit di sebelah barat.",
+    "pilihan": ["Betul", "Salah"],
+    "jawapan": "Salah",
+    "penjelasan": "Matahari sentiasa terbit di sebelah timur dan tenggelam di sebelah barat."
+  },
+  {
+    "id": 3,
+    "jenis": "isi_kosong",
+    "soalan": "Proses tumbuhan membuat makanannya sendiri dipanggil ________.",
+    "jawapan": "fotosintesis",
+    "penjelasan": "Fotosintesis memerlukan cahaya matahari, air, dan karbon dioksida."
+  }
+]
